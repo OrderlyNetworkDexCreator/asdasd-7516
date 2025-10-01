@@ -8,7 +8,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DEFAULT_CHAIN": "",
   "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email",
-  "VITE_PRIVY_TERMS_OF_USE": "",
+  "VITE_PRIVY_TERMS_OF_USE": "https://www.nakamoto.games/",
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
